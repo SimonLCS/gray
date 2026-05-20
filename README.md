@@ -22,7 +22,7 @@ Windows support using WSL is preliminary, please report any issues.
 
 ## Viewing Pretrained Models
 
-The pretrained models are [available online](https://repo-sam.inria.fr/nerphys/gray/pretrained). You can open them in the interactive viewer with
+The pretrained models are [available online](https://repo-sam.inria.fr/nerphys/gray/pretrained.html). You can open them in the interactive viewer with
 
 ```bash
 python view.py -m <model_dir>
